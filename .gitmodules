@@ -1,0 +1,3 @@
+[submodule "consultingRoomFE"]
+	path = consultingRoomFE
+	url = https://github.com/thomasrosales/consultingRoomFE
